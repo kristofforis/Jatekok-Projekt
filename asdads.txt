@@ -1,0 +1,42 @@
+<div class="modal fade" id="card_tart_1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-xl">
+<div class="modal-content mod-content">
+  <div class="modal-header mod-keret" data-bs-theme="dark">
+<h1 class="modal-title fs-5 text-white" id="exampleModalLabel">
+Minecraft
+</h1>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+  </div>
+  <div class="modal-body">
+
+
+<img src="./src/minecraft-uhdpaper.com-hd-8.2239.jpg" class="img img-fluid center" alt="...">
+<table class="table table-dark d-flex justify-content-center py-5">
+<tr>
+<td><i>Kiadó:</i></td>
+<td>Mojang Studios</td>
+</tr>
+<tr>
+<td><i>Megjelent:</i></td>
+<td>2011 november 08</td>
+</tr>
+<tr>
+<td><i>Típus:</i></td>
+  <td>Sandbox, Túlélő</td>
+</tr>
+</table>
+<p class="text-white">A Minecraftban a játékosok egy blokkokból álló, pixeles, 3D világot
+fedezhetnek fel,
+felhasználhatják annak a nyersanyagait, eszközöket készíthetnek, építményeket építhetnek,
+továbbá a játék módjától függően harcolhatnak számítógép vezérelte ellenségekkel, vagy akár
+együttműködhetnek más játékosokkal. A játék több módban is játszható: a gyűjtögetésre,
+barkácsolásra és harcokra fókuszáló túlélő és a végtelen forrással rendelkező kreatív, vagy
+szemlélő módban. A Java alapú kiadásban különböző modokkal új játékmechanikával,
+tárgyakkal és grafikával lehet kiegészíteni a játékot.</p>
+  </div>
+  <div class="modal-footer mod-keret">
+<button type="button" class="btn btn-outline-light" data-bs-dismiss="modal">Vissza</button>
+  </div>
+</div>
+</div>
+</div>
